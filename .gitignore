@@ -1,0 +1,10 @@
+dataLH/
+Testing/
+Training/
+testDataset/
+trainDataset/
+model/
+ARCH/
+model.h5
+
+
