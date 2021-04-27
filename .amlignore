@@ -1,0 +1,12 @@
+data
+model
+sourceData
+Training
+Testing
+trainDataset
+testDataset
+dataLH
+model_keras.h5
+model_weights.h5
+model_wieghts.h5
+ARCH
