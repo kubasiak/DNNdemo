@@ -109,7 +109,7 @@ filelock==3.0.12
 fire==0.2.1
 flake8==3.7.9
 Flask==1.0.3
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 fonttools==4.13.0
 fsspec==0.6.2
 fusepy==3.0.1
