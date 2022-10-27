@@ -51,7 +51,7 @@ azureml-train-automl-runtime==0.1.0.32573435
 azureml-train-core==0.1.0.32573435
 azureml-train-restclients-hyperdrive==0.1.0.32573435
 azureml-widgets==1.0.85
-Babel==2.8.0
+Babel==2.9.1
 backcall==0.1.0
 backports.os==0.1.1
 backports.shutil-get-terminal-size==1.0.0
