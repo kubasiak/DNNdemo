@@ -150,7 +150,7 @@ jedi==0.16.0
 jeepney==0.4.2
 Jinja2==2.10.3
 jmespath==0.9.4
-joblib==0.14.1
+joblib==1.2.0
 json-logging-py==0.2
 json5==0.8.5
 JsonForm==0.0.2
