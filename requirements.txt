@@ -257,7 +257,7 @@ pydub==0.24.1
 pyflakes==2.1.1
 Pygments==2.5.2
 PyHamcrest==2.0.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.4.4
 pyodbc==4.0.27
 pyOpenSSL==19.1.0
