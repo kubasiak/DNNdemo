@@ -242,7 +242,7 @@ prometheus-client==0.7.1
 prompt-toolkit==3.0.3
 protobuf==3.11.2
 psutil==5.6.7
-py==1.8.1
+py==1.11.0
 py-cpuinfo==5.0.0
 pyarrow==0.15.1
 pyasn1==0.4.8
