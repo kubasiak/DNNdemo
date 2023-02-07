@@ -83,7 +83,7 @@ configobj==5.0.6
 configparser==3.7.4
 constantly==15.1.0
 contextlib2==0.6.0.post1
-cryptography==2.8
+cryptography==39.0.1
 cycler==0.10.0
 Cython==0.29.14
 cytoolz==0.10.1
